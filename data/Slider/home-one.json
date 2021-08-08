@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1, 
+    "title": "Repair Your Laptop Iphone & Computer.",
+    "description": "As quas equidem noluisse et, ex pro semper fierent opore at epic urei ullam corper usu eohs et voluptaria rationibus you ",
+    "bg": "slider1.jpg",
+    "smallImg": "slider_ele_2.png",
+    "btnText": "Get A Quote",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2, 
+    "title": "Repair Your Laptop Iphone & Computer.",
+    "description": "As quas equidem noluisse et, ex pro semper fierent opore at epic urei ullam corper usu eohs et voluptaria rationibus you ",
+    "bg": "slider2.jpg",
+    "smallImg": "slider_ele_1.png",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }  
+]

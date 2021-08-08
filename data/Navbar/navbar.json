@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/"
+  },  
+  {
+    "id": 7,
+    "title": "Pages",
+    "link": "/",
+    "subMenu": [
+      {
+        "id": 7.1,
+        "title": "Gallery One",
+        "link": "/gallery"
+      },
+      {
+        "id": 7.2,
+        "title": "Gallery Two",
+        "link": "/gallery-two"
+      },    
+      {
+        "id": 7.4,
+        "title": "Service Page",
+        "link": "/service"
+      },
+      {
+        "id": 7.5,
+        "title": "Single Service",
+        "link": "/service/1"
+      },
+      {
+        "id": 7.7,
+        "title": "About Page",
+        "link": "/about"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Blog",
+    "link": "/blog",
+    "subMenu": [
+      {
+        "title": "Blog One",
+        "link": "/blog"
+      },      
+      {
+        "title": "Blog Two",
+        "link": "/blog-two"
+      },
+      {
+        "title": "Single Blog",
+        "link": "/blog/1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shop",
+    "link": "/shop",
+    "subMenu": [
+      {
+        "title": "Shop Pagfe",
+        "link": "/shop"
+      },
+      {
+        "title": "Shop Details",
+        "link": "/shop/1"
+      },
+      {
+        "title": "Cart page",
+        "link": "/cart"
+      },    
+      {
+        "title": "Checkout",
+        "link": "/checkout"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

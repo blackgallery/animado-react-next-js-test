@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "counterNumber": 215,
+    "counterText": "Project done",
+    "mathSymbol": " % "
+  },
+  {
+    "id": 2,
+    "counterNumber": 275,
+    "counterText": "Problem solved ",
+    "mathSymbol": " + "
+  },
+  {
+    "id": 3,
+    "counterNumber": 374,
+    "counterText": "Clients helped ",
+    "mathSymbol": " + "
+  },
+  {
+    "id": 4,
+    "counterNumber": 437,
+    "counterText": "Working Hours",
+    "mathSymbol": " + "
+  }
+]

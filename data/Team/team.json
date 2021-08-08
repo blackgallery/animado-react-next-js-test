@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Adam Gilcrist ",
+    "img": "team1.jpg",
+    "designation": "Engineer",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 2,
+    "name": "Kristen Crew ",
+    "img": "team2.jpg",
+    "designation": "Founder",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 3,
+    "name": "Robert Doe ",
+    "img": "team3.jpg",
+    "designation": "Chairman",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 4,
+    "name": "Jon Gilcrist ",
+    "img": "team2.jpg",
+    "designation": "Sinior manager",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 5,
+    "name": "Jon Gilcrist ",
+    "img": "team3.jpg",
+    "designation": "Engineer",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 6,
+    "name": "Jon Gilcrist ",
+    "img": "team1.jpg",
+    "designation": "Sinior manager",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 7,
+    "name": "Jon Gilcrist ",
+    "img": "team2.jpg",
+    "designation": "Sinior manager",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 8,
+    "name": "Jon Gilcrist ",
+    "img": "team1.jpg",
+    "designation": "Sinior manager",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com",
+    "instagramUrl": "//www.instagram.com",
+    "text": "Norem Ipsum is simply dummy text of the printing and types etting industry. Lorem Ipsum has been the indu stry's standard dummy text ever since the 1500s, when an unk nown printer took a galley of type Norem Ipsum is simply dummy text offiner  theprin at ting Norem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Norem Ipsum is simply dummy text of the printing"
+  } 
+ 
+]

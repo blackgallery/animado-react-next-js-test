@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop Repair", 
+    "thumb": "work-1.jpg",
+    "tag": "business",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "laptop", 
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 2,
+    "title": "Desktop Repair ", 
+    "thumb": "work-2.jpg",
+    "tag": "marketing",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "desktop",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 3,
+    "title": "monitor Repair", 
+    "thumb": "work-3.jpg",
+    "tag": "creative",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "monitor",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 4,
+    "title": "Campaign & PR", 
+    "thumb": "work-4.jpg",
+    "tag": "design",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "phone",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House", 
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 5,
+    "title": "Creative Ideas", 
+    "thumb": "work-5.jpg",
+    "tag": "development",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "laptop",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 6,
+    "title": "Digital Solutions", 
+    "thumb": "work-1.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "desktop",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 7,
+    "title": "Monitor Repair", 
+    "thumb": "work-2.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "monitor",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 8,
+    "title": "Phone Repair", 
+    "thumb": "work-3.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "phone",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 9,
+    "title": "Digital Solutions", 
+    "thumb": "work-4.jpg",
+    "tag": "strategy",
+    "previewImages": "single_work.jpg",
+    "filterItem": [
+      "React",  
+      "Bootstrap",  
+      "Node",  
+      "Express",  
+      "Mongodb" 
+    ],
+    "category": "laptop",
+    "content": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores et ea rebum. Invidunt ut labore et dolore magna stet clita kasd gubergrenLorem ipsum dolor sit ame consetetur</p> <p>Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gube rgren accusam et justo duo labore et dolore magna stet clita kasd gubergr enLorem ipsum dolor sit ame consetetur sadipscing elitr a vero eos et accusam et justo duo dolores</p>",
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  }
+ 
+ 
+]

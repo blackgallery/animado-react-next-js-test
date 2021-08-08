@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "quote": "Organically grown crops tend use natural fertilizer like manure to improve growth to plant as amet cons adip scing elited id lectus quis dui euismod con after.",
+    "author": "John Watson",
+    "designation": "Chairman",
+    "authorThumb": "testimonial1.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "Organically grown crops tend use natural fertilizer like manure to improve growth to plant as amet cons adip scing elited id lectus quis dui euismod con after.",
+    "author": "Adam Crew",
+    "designation": "President",
+    "authorThumb": "testimonial2.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "Organically grown crops tend use natural fertilizer like manure to improve growth to plant as amet cons adip scing elited id lectus quis dui euismod con after.",
+    "author": "Deo Crew",
+    "designation": "Manager",
+    "authorThumb": "testimonial3.jpg"
+  }
+]

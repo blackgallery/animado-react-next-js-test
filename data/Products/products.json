@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Dell Laptop",
+    "image": "product01.png",
+    "discountPrice": "$46.00",
+    "orginalPrice": "$120.00",
+    "discountRate": "6%",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 2,
+    "name": "Monitor",
+    "image": "product02.png",
+    "discountPrice": "$66.00",
+    "orginalPrice": "$120.00",
+    "discountRate": "",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 3,
+    "name": "iPhone Mobile",
+    "image": "product03.png",
+    "discountPrice": "$87.00",
+    "orginalPrice": "$130.00",
+    "discountRate": "4%",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 4,
+    "name": "Computer",
+    "image": "product04.png",
+    "discountPrice": "$96.00",
+    "orginalPrice": "$140.00",
+    "discountRate": "",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "image": "product04.png",
+    "discountPrice": "$69.00",
+    "orginalPrice": "$130.00",
+    "discountRate": "8%",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 6,
+    "name": "Desktop",
+    "image": "product03.png",
+    "discountPrice": "$59.00",
+    "orginalPrice": "$90.00",
+    "discountRate": "9%",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 7,
+    "name": "Desktop",
+    "image": "product02.png",
+    "discountPrice": "$89.00",
+    "orginalPrice": "$112.00",
+    "discountRate": " ",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mobile Phone",
+    "image": "product01.png",
+    "discountPrice": "$98.00",
+    "orginalPrice": "$132.00",
+    "discountRate": "7%",
+    "brand": "Samsung",
+    "modelNumber": "SM-2045-24",
+    "categories": [ 
+      "laptop",
+      "Pc",
+      "Desktop",
+      "Mac",
+      "Phone" 
+    ], 
+    "tags": [ 
+      "Phone",
+      "Pc",
+      "Desktop"
+    ],  
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "imageGallery": [ 
+      "product_1.jpg",
+      "product_2.jpg",
+      "product_3.jpg",
+      "product_4.jpg",
+      "product_5.jpg" 
+    ],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in </p><p>vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>",
+    "additionalInfo": {
+      "des": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "color": "Black",
+      "weight": "50kg",
+      "condition": "New",
+      "product": "Laptop , Samsung"
+    },
+    "review": {
+      "img": "testimonial3.jpg",
+      "name": " Adam Crist ",
+      "date": "Jan 14, 2019",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation" 
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "count": "01",
+      "title": "Call Up",
+      "text": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant.",
+      "img": "process_1.jpg"
+    },
+    {
+      "id": 2,
+      "count": "02",
+      "title": "Form Fill up",
+      "text": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant.",
+      "img": "process_2.jpg"
+    },
+    {
+      "id": 3,
+      "count": "03",
+      "title": "Diagnostic",
+      "text": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant.",
+      "img": "process_3.jpg"
+    }, 
+    {
+      "id": 4,
+      "count": "04",
+      "title": "Repair & Solve",
+      "text": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant.",
+      "img": "process_4.jpg"
+    }
+  ]

@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "image": "product01.png",
+      "name": "Samsung Mobile",
+      "price": "$160.00",
+      "total": "$190.00"
+    },
+    {
+      "id": 2,
+      "image": "product02.png",
+      "name": "iPhone Mobile",
+      "price": "$130.00",
+      "total": "$290.00"
+    } 
+  ]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dell Laptop",
+    "image": "product01.png",
+    "discountPrice": "$76.00",
+    "orginalPrice": "$62.00",
+    "discountRate": "6%"
+  },
+  {
+    "id": 2,
+    "name": "Monitor",
+    "image": "product02.png",
+    "discountPrice": "$96.00",
+    "orginalPrice": "$87.00",
+    "discountRate": "6%"
+  },
+  {
+    "id": 3,
+    "name": "Computer",
+    "image": "product03.png",
+    "discountPrice": "$56.00",
+    "orginalPrice": "$45.00",
+    "discountRate": "6%"
+  },
+  {
+    "id": 4,
+    "name": "Mac Book ",
+    "image": "product04.png",
+    "discountPrice": "$76.00",
+    "orginalPrice": "$72.00",
+    "discountRate": "6%"
+  },
+  {
+    "id": 5,
+    "name": "Iphone ",
+    "image": "product03.png",
+    "discountPrice": "$36.00",
+    "orginalPrice": "$34.00",
+    "discountRate": "6%"
+  } 
+]

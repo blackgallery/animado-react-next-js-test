@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "planIcon": "pricing_icon_2.png",
+    "planName": "Basic Plan",
+    "currencyType": "$",
+    "planPrice": "70",
+    "subscribePlan": "month",
+    "buttonLink": "/contact",
+    "planFeatures": [ 
+      "Television  Phone Service",
+      "Laptop Repair Service",
+      "Desktop Repair Service",
+      "Mobile Phone Service",
+      "iPhone Repair Service", 
+      "Monitor Repair Service"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 2,
+    "planIcon": "pricing_icon_1.png",
+    "planName": "Premium plan",
+    "currencyType": "$",
+    "planPrice": "80",
+    "subscribePlan": "month",
+    "buttonLink": "/contact",
+    "planFeatures": [ 
+      "Television  Phone Service",
+      "Laptop Repair Service",
+      "Desktop Repair Service",
+      "Mobile Phone Service",
+      "iPhone Repair Service", 
+      "Monitor Repair Service"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 3,
+    "planIcon": "pricing_icon_3.png",
+    "planName": "Standard plan",
+    "currencyType": "$",
+    "planPrice": "90",
+    "subscribePlan": "month",
+    "buttonLink": "/contact",
+    "planFeatures": [ 
+      "Television  Phone Service",
+      "Laptop Repair Service",
+      "Desktop Repair Service",
+      "Mobile Phone Service",
+      "iPhone Repair Service", 
+      "Monitor Repair Service"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  }
+]
